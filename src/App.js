@@ -11,6 +11,14 @@ function App() {
           <label>Username</label>
           <input type="text" name='username' placeholder='Username' />
         </div>
+        <div className='field'>
+          <label>Password</label>
+          <input type="password" name='password' placeholder='Password' />
+        </div>
+        <div className='field'>
+          <label>Email</label>
+          <input type="email" name='email' placeholder='Email' />
+        </div>
       </div>
      </form>
     </div>
