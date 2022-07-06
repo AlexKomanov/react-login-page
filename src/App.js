@@ -19,6 +19,7 @@ function App() {
           <label>Email</label>
           <input type="email" name='email' placeholder='Email' />
         </div>
+        <button className='fluid ui button blue'>Submit</button>
       </div>
      </form>
     </div>
